@@ -1,5 +1,6 @@
 # KCM-Dark-Mode
 
+Unofficial Dark Mode for KCM
 
 Contributions from:
 - https://github.com/Keeper-Eric/kcm-add-logo
