@@ -1,9 +1,10 @@
 # KCM-Dark-Mode
 
 
-Forks from:
+Contributions from:
 - https://github.com/Keeper-Eric/kcm-add-logo
 - https://github.com/madmath03/dark-guacamole
+- TG
 
 Dark mode is a dark grey background and white text. Easier on the eyes. You can also customize your logo with the steps below.
 
