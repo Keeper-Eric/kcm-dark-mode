@@ -1,4 +1,4 @@
-# KCM-Dark-Mode
+# KCM-Dark-Mode (Unofficial)
 
 Unofficial Dark Mode for KCM
 
