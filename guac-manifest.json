@@ -1,0 +1,19 @@
+{
+    "guacamoleVersion" : "*",
+    "name"             : "Add Logo and Page Title",
+    "namespace"        : "kcm-branding-example",
+    "css" : [
+        "css/example.css"
+    ],
+    "resources" : {
+        "resources/images/logo.png" : "image/png"
+    },
+    
+    "largeIcon" : "resources/images/large.png",
+
+    "smallIcon" : "resources/images/small.png",
+    
+    "translations" : [
+        "translations/en.json"
+    ]
+}
