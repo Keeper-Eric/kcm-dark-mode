@@ -1,8 +1,11 @@
-# kcm-dark-mode
-KCM Dark Mode
+# KCM-Dark-Mode
+
+
 Forks from:
-https://github.com/Keeper-Eric/kcm-add-logo
-https://github.com/madmath03/dark-guacamole
+- https://github.com/Keeper-Eric/kcm-add-logo
+- https://github.com/madmath03/dark-guacamole
+
+Dark mode is a dary grey background and white text. Easier on the eyes. You can also customize your logo with the steps below.
 
 How to add your logo to KCM:
 1. Download the zip file of this repository and extract everything to a folder.
